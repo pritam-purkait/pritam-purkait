@@ -3,9 +3,9 @@
 ### 🚀 Aspiring Backend Developer | ☕ Java & Spring Enthusiast
 ---
 ### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<!-- Add this in your technologies section or wherever you want the logos -->
+[![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)](https://www.java.com)
+[![Spring](https://spring.io/images/spring-logo.svg)](https://spring.io)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
