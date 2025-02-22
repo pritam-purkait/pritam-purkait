@@ -22,9 +22,7 @@
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-purkait&layout=compact&theme=radical)
 ---
-### 💻 Programming Quotes
-
-> "The computer was born to solve problems that did not exist before." - Bill Gates
+### 💻  "The computer was born to solve problems that did not exist before." - Bill Gates
 ---
 
 ### 🏻 Pronouns
