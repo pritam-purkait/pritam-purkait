@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pritam Purkait!
 
-### 🚀 Aspiring Backend Developer | ☕ Java & Spring Enthusiast | Finnal year CSE Student 
+### 🚀 Aspiring Backend Developer | ☕ Java & Spring Enthusiast | Student 
 ---
 ### 🛠️ Tech Stack
 
