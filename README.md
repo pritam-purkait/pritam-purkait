@@ -1,29 +1,48 @@
-# 👋 Hello, I'm Pritam Purkait!
+# Pritam Purkait
 
-### 🚀 Aspiring Backend Developer | ☕ Java & Spring Enthusiast | Student 
----
-### 🛠️ Tech Stack
+**Backend Developer | Spring Ecosystem | Building Scalable Systems**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
----
-### 🌱 Currently Learning
-- Spring Framework Ecosystem
-- Hibernate ORM
-- REST API Development
-- Microservices Architecture
----
-### 📫 Let's Connect
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritampurkait5533@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-purkait-89428a252)
----
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-purkait&layout=compact&theme=radical)
----
-### 💻  "The computer was born to solve problems that did not exist before." - Bill Gates
 ---
 
-### 🏻 Pronouns
-[![He/Him](https://img.shields.io/badge/He/Him-%23FF69B4.svg?style=for-the-badge)](https://pronoun.is/he/him)
+### Core Stack
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<br /><br />
+
+---
+
+### Exploration Ground
+
+- Architecting RESTful Ecosystems
+- Distributed Systems Patterns
+- Cloud-Native Applications
+- Performance Optimization
+
+---
+
+### Development Rhythm
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pritam-purkait&theme=monokai-metallian&mode=weekly)](https://git.io/streak-stats)
+
+![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-purkait&layout=compact&theme=vision-friendly-dark)
+
+---
+
+### Connect
+
+<a href="mailto:pritampurkait5533@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritam-purkait-89428a252">
+  <img src="https://img.shields.io/badge/Network-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+---
+
+> *"First, solve the problem. Then, write the code."* - John Johnson
