@@ -25,14 +25,6 @@
 
 ---
 
-### Development Rhythm
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pritam-purkait&theme=monokai-metallian&mode=weekly)](https://git.io/streak-stats)
-
-![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-purkait&layout=compact&theme=vision-friendly-dark)
-
----
-
 ### Connect
 
 <a href="mailto:pritampurkait5533@gmail.com">
