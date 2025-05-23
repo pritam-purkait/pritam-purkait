@@ -16,15 +16,6 @@
 
 ---
 
-### Exploration Ground
-
-- Architecting RESTful Ecosystems
-- Distributed Systems Patterns
-- Cloud-Native Applications
-- Performance Optimization
-
----
-
 ### Connect
 
 <a href="mailto:pritampurkait5533@gmail.com">
