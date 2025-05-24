@@ -26,6 +26,3 @@
   <img src="https://img.shields.io/badge/Network-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
----
-
-> *"First, solve the problem. Then, write the code."* - John Johnson
