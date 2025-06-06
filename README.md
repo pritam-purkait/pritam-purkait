@@ -1,6 +1,6 @@
 # Pritam Purkait
 
-**Backend Developer | Spring Ecosystem | Building Scalable Systems**
+**Backend Developer | Spring Boot | Building Scalable Systems**
 
 ---
 
